@@ -26,15 +26,15 @@
 
     a {
         display: block;
-        background-color:white;
+        background-color:rgb(254, 254, 254);
         color: rgb(0, 0, 0);
         padding: 20px;
         text-align: center;
         border: 3px solid white;
+        text-decoration: none;
 
     }
 
-
     a:hover {
-
+        color: blue;
     }
